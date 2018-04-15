@@ -1,0 +1,2 @@
+# OMPOptimalFence
+The purpose of this project is to gain experience in parallel programming using OpenMP programming model. For this assignment, I am going to write three parallel implementations to solve an optimization problem, assessing the effects of my design decisions on the application performance. In particular, the Speedup and Efficiency metrics will be assessed in relation to the problem size.
